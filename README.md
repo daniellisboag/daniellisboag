@@ -59,5 +59,3 @@
 </p>
 
 ---
-
-![Snake animation](https://github.com/daniellisboag/daniellisboag/blob/output/github-contribution-grid-snake.svg)
