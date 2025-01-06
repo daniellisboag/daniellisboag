@@ -15,32 +15,11 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=daniellisboag&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellisboag&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=daniellisboag&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniellisboag&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellisboag&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&custom_title=Linguagens%20mais%20Usadas" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniellisboag&area=false&hide_border=true&hide_title=true&theme=gotham" height="272.2" alt="activity-graph graph"  />
+</div>
 
 --- 
 
