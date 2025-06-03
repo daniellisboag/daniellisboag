@@ -1,27 +1,11 @@
-## 👋 Olá, eu sou o Daniel Lisboa
-
-*   🎯 Foco em desenvolvimento Back-End.
-*   💻 Estudando Análise e Desenvolvimento de Sistemas.
-*   📚 Em constante aprendizado.
-
----
-
-## 👨‍💻 Sobre mim
-
-*   Gosto de resolver problemas com lógica, aprender novas tecnologias e compartilhar o que sei.  
-*   Trabalho bem em equipe, tenho boa comunicação e estou sempre em busca de evolução pessoal e profissional.  
-
----
+<h1 align="center">👋 Olá, eu sou o Daniel Lisboa</h1>
 
 <h2 align="center">🛠️ Minhas Habilidade</h2>
-
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,py"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,github,git,ubuntu"/>
   </a>
 </div>
-
----
 
 <h2 align="center">📫 Conecte-se comigo</h2>
 <div align="center">
@@ -31,8 +15,6 @@
   <a href="mailto:daniellisboag0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
----
-
 <h2 align="center">⚙️ Análise do GitHub</h2>
 
 <div align="center">
@@ -40,8 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellisboag&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Linguagens%20mais%20Usadas" height="170" alt="languages graph"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniellisboag&area=true&hide_border=false&hide_title=true&theme=gotham" height="280" alt="activity-graph graph"/>
 </div>
-
----
 
 <h2 align="center">🏆 Troféus do GitHub</h2>
 
