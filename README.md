@@ -17,7 +17,7 @@
 <h2 align="center">🛠️ Tecnologias que utilizo e que já tive contato</h2>
 <table align="center">
   <tr>
-    <th>Linguagens que utilizo</th>
+    <th>Que utilizo</th>
     <th>Que já tive contato</th>
   </tr>
   <tr>
