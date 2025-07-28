@@ -42,14 +42,14 @@
 
 <div align="center">
   <h2>⚙️ Análise do GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=daniellisboag&show_icons=true&include_all_commits=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&rank_icon=github" height="170" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellisboag&locale=pt-br&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dark&hide_border=false&custom_title=Linguagens%20mais%20Usadas" height="170" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniellisboag&show_icons=true&include_all_commits=true&disable_animations=false&theme=light&locale=pt-br&hide_border=false&rank_icon=github" height="170" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellisboag&locale=pt-br&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=light&hide_border=false&custom_title=Linguagens%20mais%20Usadas" height="170" alt="languages graph"/>
 </div>
 
 
 <div align="center">
   <h2>🏆 Troféus do GitHub</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=daniellisboag&column=8&theme=onedark&no-frame=false&no-bg=false"/>
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=daniellisboag&column=8&theme=flat&no-frame=false&no-bg=false"/>
   </a>
 </div>
